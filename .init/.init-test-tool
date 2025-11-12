@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/movie-insights-ai-222346-222355/movie_ai_frontend"
+}
